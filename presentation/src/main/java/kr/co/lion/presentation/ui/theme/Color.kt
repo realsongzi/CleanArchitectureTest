@@ -1,4 +1,4 @@
-package kr.co.lion.cleanarchitecture_mvi_test.ui.theme
+package kr.co.lion.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

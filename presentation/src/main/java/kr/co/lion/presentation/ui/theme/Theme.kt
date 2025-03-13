@@ -1,6 +1,5 @@
-package kr.co.lion.cleanarchitecture_mvi_test.ui.theme
+package kr.co.lion.presentation.ui.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme
